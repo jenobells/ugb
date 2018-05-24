@@ -1124,7 +1124,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Team Section
 --------------------------------*/
 #team {
-  background: #fff;
+  background: #171a1e;
   padding: 60px 0;
 }
 
@@ -1180,6 +1180,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #team .member .social {
   margin-top: 15px;
+}
+
+#team h3{
+    color:#D32F2F;
+}
+
+#team p{
+    color: #fff;
 }
 
 #team .member .social a {
